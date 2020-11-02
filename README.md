@@ -4,6 +4,6 @@ Another fresh attempt for a personal website portfolio, improving on previous go
 
 Might need to replace main image with something else. Personal animations?
 
-Trying out to customize my Resume/CV for the companies I want to work for the most :)
+Trying out to customize my Resume/CV for each company I want to work for the most :)
 
-![Resume]("Resume - Discord.png")
+![Resume](assets/ResumeDiscord.png)
