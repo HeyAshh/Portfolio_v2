@@ -2,27 +2,57 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Ashh.me</title>
     <link href="https://fonts.googleapis.com/css?family=Rubik:300,500,700" rel="stylesheet">
     <link rel="stylesheet" href="dist/sakura.css" />
     <link rel="icon" type="image/png" href="assets/a1.png">
     <link rel="stylesheet" href="style.css">
+    <link rel="preload" href="/assets/backgroundPic.png" as="image">
 </head>
 <body>
-    <div class='links'>
-        <a href="https://twitter.com/rstacruz">
+    <div  id="wrapper">
+    <div id="container">
+    <div id="main">
+    <div id="somebackground">
+    <script>document.documentElement.className += ' loading';</script>
+  <p>Hiyah!  <br>
+  I'm Ashh. <br>
+  I'm a software engineer.
+  </p>
+  <div class='links'>
+        <a href="https://twitter.com/HeyAshh1">
         <i class='ion-social-twitter-outline'></i>
         </a>
-        <a href="https://github.com/rstacruz">
+        <a href="https://github.com/HeyAshh">
         <i class='ion-social-github-outline'></i>
         </a>
-        <!-- <a href="https://dribbble.com/rstacruz">
-        <i class='ion-social-dribbble-outline'></i>
-        </a> -->
-        <a href="https://ph.linkedin.com/in/ricostacruz">
+        <a href="https://www.linkedin.com/in/heyashh/">
         <i class='ion-social-linkedin'></i>
         </a>
+        </div>
+  <script src="dist/sakura.js" text="text/javascript"></script>
+  <script>
+    var sakura = new Sakura('body', {
+      colors: [
+        {
+          gradientColorStart: 'rgba(255, 183, 197, 0.9)',
+          gradientColorEnd: 'rgba(255, 197, 208, 0.9)',
+          gradientColorDegree: 120,
+        },
+        {
+          gradientColorStart: 'rgba(255,189,189)',
+          gradientColorEnd: 'rgba(227,170,181)',
+          gradientColorDegree: 120,
+        },
+        {
+          gradientColorStart: 'rgba(212,152,163)',
+          gradientColorEnd: 'rgba(242,185,196)',
+          gradientColorDegree: 120,
+        },
+      ],
+      delay: 200,
+    });
+  </script>
 </body>
 </html>
