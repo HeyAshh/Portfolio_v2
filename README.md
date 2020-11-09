@@ -6,8 +6,7 @@ attempt #1
 
 And here's the final result! Really happy how it turned out on both mobile and desktop! Would ideally add a few animations, but it's something I will keep for the future!
 
-![Final Result](assets/finalResult.png  = 250x250)
-<img src="assets/finalResult.png" width="480">
+<img src="assets/finalResult.png" width="240">
 
 
 Trying out to customize my Resume/CV for each company I want to work for the most :)
