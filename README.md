@@ -19,3 +19,5 @@ Trying out to customize my Resume/CV for each company I want to work for the mos
 
 ![Resume](assets/ResumeDiscord.png)
 ![CV](assets/CVDiscord.png)
+
+![Resume](/Resume-Tesla.png)
