@@ -11,6 +11,7 @@ ashh.me
 suggestions: replace lots of div elements with canvas
 
 ~~current bugs: background color flickering not solved on ChromeOS, inital load briefly displays background color~~
+
 Bug free! Fixed bugs by replacing heavy .png files with .svg, website is running much smoother now! No noticable bugs!
 
 <img src="assets/finalResult.png" width="380">
